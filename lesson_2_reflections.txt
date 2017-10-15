@@ -1,0 +1,9 @@
+What happens when you initialise a repository? Why do you need to do it?
+whenever I intialise a repository, I create a new git diretory. Without initialising a repository,the directory will be like a normal directory.
+
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging is different from the former because it doesnt store files permanently. It enables one to have a logical
+
+change per commit
